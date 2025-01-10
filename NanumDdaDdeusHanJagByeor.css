@@ -1,0 +1,9 @@
+@font-face {
+  font-family: 'NanumDdaDdeusHanJagByeor';
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+  src: url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumDdaDdeusHanJagByeor/NanumDdaDdeusHanJagByeor.woff2') format('woff2'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumDdaDdeusHanJagByeor/NanumDdaDdeusHanJagByeor.woff') format('woff'),
+        url('https://cdn.jsdelivr.net/gh/fonts-archive/NanumDdaDdeusHanJagByeor/NanumDdaDdeusHanJagByeor.ttf') format('truetype');
+}
